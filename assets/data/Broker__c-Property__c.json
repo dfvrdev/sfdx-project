@@ -1,0 +1,30 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef1"
+            },
+            "Name": "test broker",
+            "Email__c": "brokerdev@email.com",
+            "Title__c": "mr broker",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef1"
+                        },
+                        "Address__c": "444 S. Marginal Road",
+                        "City__c": "Jericho",
+                        "Date_Listed__c": "2020-11-26",
+                        "Name": "444 Jericho",
+                        "State__c": "NY",
+                        "Title__c": "444 Jericho",
+                        "Zip__c": "11753"
+                    }
+                ]
+            }
+        }
+    ]
+}
